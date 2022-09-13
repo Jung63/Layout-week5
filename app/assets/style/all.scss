@@ -1,0 +1,9 @@
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "./helpers/variables";
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+@import url(https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0); //icon 
+
+@import './base';
+@import './helpers/utilities';
+@import './layout/layout.scss';
+@import'./index';
